@@ -138,6 +138,11 @@ const links = [
 
 const IndexPage: React.FC<PageProps> = () => {
   return (
+    <header>
+      <nav class="container mx-auto px-6 py-3">
+
+      </nav>
+    </header>
     <main style={pageStyles}>
       <h1 style={headingStyles}>
         Congratulations

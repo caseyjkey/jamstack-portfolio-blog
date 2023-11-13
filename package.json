@@ -1,8 +1,8 @@
 {
-  "name": "casey-key-s-portfolio",
+  "name": "Casey-Key's-portfolio",
   "version": "1.0.0",
   "private": true,
-  "description": "casey-key-s-portfolio",
+  "description": "Casey Key's software engineering portfolio.",
   "author": "Casey JG Key",
   "keywords": [
     "gatsby"
@@ -19,7 +19,6 @@
     "@mdx-js/react": "^3.0.0",
     "autoprefixer": "^10.4.16",
     "gatsby": "^5.12.4",
-    "gatsby-plugin-google-gtag": "^5.12.3",
     "gatsby-plugin-image": "^3.12.3",
     "gatsby-plugin-mdx": "^5.12.3",
     "gatsby-plugin-netlify-cms": "^7.12.0",
